@@ -1,0 +1,5 @@
+user_id,ip,location,time,device,is_suspicious
+user1,192.168.1.1,USA,08:30,Laptop,0
+user2,45.23.12.5,China,03:00,Phone,1
+user3,182.34.55.1,Germany,22:15,Tablet,0
+user4,23.45.67.8,Russia,02:45,Unknown,1
